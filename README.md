@@ -23,7 +23,7 @@ Email: tdpham7@cougarnet.uh.edu
 Website: https://rpglab.github.io/people/Thuan-Pham/
 
 ## Datasets:
-The data set and coded are uploaded on Figshare. The link is as follows:
+The datasets are available on Figshare. The link is as follows:
 <a class="off" href="https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2"  target="_blank">https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2</a>
 
 ## Citation:
