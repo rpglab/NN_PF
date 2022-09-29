@@ -2,9 +2,11 @@
 
 All files end in .ipynb are Python notebook files. These files are needed to build the neural network based power flow model. Additional python libraries are required to run these notebook files: pytorch, numpy, matplotlib, csv.
 
-## Generated data files for training Neural Network
+## Datasets (needs to download separately):
+All data files are stored in .csv format. The datat set contains the data used for training Neural Network for different IEEE systems.
+The datasets are available on Figshare. The link is as follows:
+<a class="off" href="https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2"  target="_blank">https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2</a>
 
-All data files are stored in .csv format. The datat set contains training data for different IEEE systems.
 
 ## MATLAB files to generate data
 
@@ -21,10 +23,6 @@ University of Houston
 Email: tdpham7@cougarnet.uh.edu
 
 Website: https://rpglab.github.io/people/Thuan-Pham/
-
-## Datasets:
-The datasets are available on Figshare. The link is as follows:
-<a class="off" href="https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2"  target="_blank">https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2</a>
 
 ## Citation:
 Thuan Pham and Xingpeng Li, “Neural Network-based Power Flow Model”, IEEE Green Technologies Conference, Houston, TX, USA, Mar. 2022. https://doi.org/10.1109/GreenTech52845.2022.9772026
