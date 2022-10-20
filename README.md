@@ -7,6 +7,11 @@ All data files are stored in .csv format. The datat set contains the data used f
 The datasets are available on Figshare. The link is as follows:
 <a class="off" href="https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2"  target="_blank">https://figshare.com/articles/dataset/Generated_Data_for_Different_Systems/19427006/2</a>
 
+All data files are stored in .csv format. The datat set contains training data for different IEEE systems. Using data_x_pf_9 as an example, each column is a data sample. 
+* The first 9 rows are active power (1-9). 
+* The second 9 rows are reactive power(10-18). 
+* The third 9 rows are initial voltage (19-27).
+
 
 ## MATLAB files to generate data
 
